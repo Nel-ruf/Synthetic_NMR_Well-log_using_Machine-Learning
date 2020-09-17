@@ -1,4 +1,4 @@
-Constructing a Synthetic NMR Well-log using Machine Learning
+# Constructing a Synthetic NMR Well-log using Machine Learning
 
 
 Executive Summary:
